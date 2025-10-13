@@ -1,0 +1,3 @@
+<?php 
+    $nomeCompletoCliente = "Camel Case";
+?>
