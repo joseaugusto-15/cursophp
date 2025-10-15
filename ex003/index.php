@@ -12,8 +12,8 @@
         // $num = 010;
         // echo "O valor da variável num é $num."
 
-        // $var = 3;
-        // var_dump($var);
+        $var = 3;
+        var_dump($var);
 
         // $int = (integer) 3e2; //Coerção
         // var_dump($int);
@@ -28,11 +28,11 @@
         // $vet = [6, 2.5, "array", 8, true];
         // var_dump($vet);
 
-        class pessoa {
-            private string $nome;
-        }
-        $p = new pessoa;
-        var_dump($p);
+        // class pessoa {
+        //     private string $nome;
+        // }
+        // $p = new pessoa;
+        // var_dump($p);
 
     ?>
 </body>
